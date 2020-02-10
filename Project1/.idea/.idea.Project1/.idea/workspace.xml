@@ -13,7 +13,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RigidBodyForces.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,6 +24,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Newer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IfStatements.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RigidBodyForces.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
       </list>
     </option>
@@ -79,6 +83,7 @@
       <workItem from="1580320165818" duration="1513000" />
       <workItem from="1580750394050" duration="3590000" />
       <workItem from="1580923443107" duration="3109000" />
+      <workItem from="1581354876907" duration="3393000" />
     </task>
     <servers />
   </component>
