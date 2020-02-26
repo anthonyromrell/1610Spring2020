@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 8fa8ce0703530054195910f4bd3a0d98, type: 3}
-  m_Name: Health
+  m_Name: Altatude
   m_EditorClassIdentifier: 
-  value: 0.70000005
+  value: 1
